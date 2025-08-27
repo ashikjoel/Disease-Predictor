@@ -57,7 +57,7 @@ Target labels represent whether a person has a disease (binary/multi-class depen
 
 Algorithms tested: Logistic Regression, Decision Tree, Random Forest, etc.
 
-Best accuracy achieved: XX% (update based on your results)
+
 
 📦 Project Structure
 Disease_Predictor/
